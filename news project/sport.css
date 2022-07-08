@@ -1,0 +1,139 @@
+#inputfield {
+    position: absolute;
+    width: 600px;
+    height: 40px;
+    border: 1px solid black;
+    outline: none;
+    font-size: 25px;
+    vertical-align: middle;
+}
+
+a {
+    text-decoration: none;
+}
+
+.container {
+    position: absolute;
+    top: 20px;
+    padding: 0px 0px 0px 1160px;
+}
+
+.home {
+    position: absolute;
+    top: 60px;
+    left: 100px;
+}
+
+.media {
+    position: absolute;
+    top: 60px;
+    left: 300px;
+}
+
+.tain {
+    position: absolute;
+    top: 60px;
+    left: 500px;
+}
+
+.sport {
+    position: absolute;
+    top: 60px;
+    left: 800px;
+}
+
+.weather {
+    position: absolute;
+    top: 60px;
+    left: 1000px;
+}
+
+.contact {
+    position: absolute;
+    top: 60px;
+    left: 1200px;
+}
+
+.text {
+    position: absolute;
+    top: 150px;
+    left: 100px;
+    font-size: x-large;
+}
+
+.gray {
+    position: absolute;
+    top: 140px;
+    z-index: -1;
+    opacity: 20%;
+}
+
+.tennis {
+    position: absolute;
+    top: 240px;
+}
+
+.text-2 {
+    position: absolute;
+    top: 250px;
+    width: 500px;
+    left: 330px;
+}
+
+.gray-2 {
+    position: absolute;
+    top: 630px;
+    opacity: 20%;
+}
+
+.little {
+    position: absolute;
+    top: 640px;
+    left: 20px;
+}
+
+.text-3 {
+    position: absolute;
+    top: 870px;
+    width: 400px;
+    left: 20px;
+}
+
+.more {
+    position: absolute;
+    top: 1000px;
+    left: 300px;
+}
+
+.other {
+    position: absolute;
+    top: 570px;
+    font-size: xx-large;
+    left: 340px;
+}
+
+.gray-3 {
+    position: absolute;
+    top: 630px;
+    left: 430px;
+    opacity: 20%;
+}
+
+.soccar {
+    position: absolute;
+    top: 640px;
+    left: 450px;
+}
+
+.text-4 {
+    position: absolute;
+    top: 870px;
+    width: 400px;
+    left: 440px;
+}
+
+.more-2 {
+    position: absolute;
+    top: 1000px;
+    left: 730px;
+}

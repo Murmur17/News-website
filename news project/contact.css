@@ -1,0 +1,69 @@
+#inputfield {
+    position: absolute;
+    width: 600px;
+    height: 40px;
+    border: 1px solid black;
+    outline: none;
+    font-size: 25px;
+    vertical-align: middle;
+}
+
+a {
+    text-decoration: none;
+}
+
+.container {
+    position: absolute;
+    top: 20px;
+    padding: 0px 0px 0px 1160px;
+}
+
+.home {
+    position: absolute;
+    top: 60px;
+    left: 100px;
+}
+
+.media {
+    position: absolute;
+    top: 60px;
+    left: 300px;
+}
+
+.tain {
+    position: absolute;
+    top: 60px;
+    left: 500px;
+}
+
+.sport {
+    position: absolute;
+    top: 60px;
+    left: 800px;
+}
+
+.weather {
+    position: absolute;
+    top: 60px;
+    left: 1000px;
+}
+
+.contact {
+    position: absolute;
+    top: 60px;
+    left: 1200px;
+}
+
+.text {
+    position: absolute;
+    top: 150px;
+    left: 550px;
+    font-size: 2rem;
+}
+
+.phone {
+    position: absolute;
+    font-size: x-large;
+    top: 300px;
+    left: 570px;
+}

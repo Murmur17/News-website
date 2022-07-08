@@ -1,0 +1,127 @@
+#inputfield {
+    position: absolute;
+    width: 600px;
+    height: 40px;
+    border: 1px solid black;
+    outline: none;
+    font-size: 25px;
+    vertical-align: middle;
+}
+
+a {
+    text-decoration: none;
+}
+
+.container {
+    position: absolute;
+    top: 20px;
+    padding: 0px 0px 0px 1160px;
+}
+
+.home {
+    position: absolute;
+    top: 60px;
+    left: 100px;
+}
+
+.media {
+    position: absolute;
+    top: 60px;
+    left: 300px;
+}
+
+.tain {
+    position: absolute;
+    top: 60px;
+    left: 500px;
+}
+
+.sport {
+    position: absolute;
+    top: 60px;
+    left: 800px;
+}
+
+.weather {
+    position: absolute;
+    top: 60px;
+    left: 1000px;
+}
+
+.contact {
+    position: absolute;
+    top: 60px;
+    left: 1200px;
+}
+
+.text {
+    position: absolute;
+    top: 150px;
+    font-size: xx-large;
+    left: 650px;
+}
+
+.forecast {
+    position: absolute;
+    z-index: -1;
+    top: 250px;
+    left: 200px;
+}
+
+.gray {
+    position: absolute;
+    top: 800px;
+    left: 50px;
+    opacity: 20%;
+}
+
+.gray-2 {
+    position: absolute;
+    top: 800px;
+    left: 800px;
+    opacity: 20%;
+}
+
+.lightning {
+    position: absolute;
+    top: 810px;
+    left: 70px;
+
+}
+
+.text-2 {
+    position: absolute;
+    top: 1050px;
+    width: 480px;
+    left: 70px;
+    font-size: larger;
+}
+
+.more {
+    position: absolute;
+    top: 1170px;
+    left: 430px;
+    font-size: large;
+}
+
+.clouds {
+    position: absolute;
+    top: 810px;
+    left: 820px;
+
+}
+
+.text-3 {
+    position: absolute;
+    top: 1050px;
+    width: 480px;
+    left: 820px;
+    font-size: larger;
+}
+
+.more-2 {
+    position: absolute;
+    top: 1170px;
+    left: 1180px;
+    font-size: large;
+}

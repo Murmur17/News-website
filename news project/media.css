@@ -1,0 +1,145 @@
+#inputfield {
+    position: absolute;
+    width: 600px;
+    height: 40px;
+    border: 1px solid black;
+    outline: none;
+    font-size: 25px;
+    vertical-align: middle;
+}
+
+.container {
+    float: right;
+    top: 20px;
+}
+
+.home {
+    position: absolute;
+    top: 60px;
+    left: 100px;
+}
+
+.media {
+    position: absolute;
+    top: 60px;
+    left: 300px;
+}
+
+.tain {
+    position: absolute;
+    top: 60px;
+    left: 500px;
+}
+
+.sport {
+    position: absolute;
+    top: 60px;
+    left: 800px;
+}
+
+.weather {
+    position: absolute;
+    top: 60px;
+    left: 1000px;
+}
+
+.contact {
+    position: absolute;
+    top: 60px;
+    left: 1200px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.text {
+    position: absolute;
+    top: 150px;
+    left: 50px;
+    font-size: xx-large;
+}
+
+.gray {
+    position: absolute;
+    top: 140px;
+    z-index: -1;
+    opacity: 20%;
+}
+
+.joe {
+    position: absolute;
+    top: 240px;
+}
+
+.text-2 {
+    position: absolute;
+    top: 250px;
+    width: 500px;
+    left: 330px;
+}
+
+.text-2-2 {
+    position: absolute;
+    top: 470px;
+    width: 700px;
+    left: 30px;
+}
+
+.gray-2 {
+    position: absolute;
+    top: 630px;
+    opacity: 20%;
+}
+
+.kids {
+    position: absolute;
+    top: 640px;
+    left: 20px;
+}
+
+.text-3 {
+    position: absolute;
+    top: 870px;
+    width: 400px;
+    left: 20px;
+}
+
+.more {
+    position: absolute;
+    top: 1000px;
+    left: 300px;
+}
+
+.gray-3 {
+    position: absolute;
+    top: 630px;
+    left: 430px;
+    opacity: 20%;
+}
+
+.quinn {
+    position: absolute;
+    top: 640px;
+    left: 450px;
+}
+
+.text-4 {
+    position: absolute;
+    top: 870px;
+    width: 400px;
+    left: 440px;
+}
+
+.more-2 {
+    position: absolute;
+    top: 1000px;
+    left: 730px;
+}
+
+.other {
+    position: absolute;
+    top: 570px;
+    font-size: xx-large;
+    left: 340px;
+}
